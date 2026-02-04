@@ -1,0 +1,5 @@
+print(5 > 3)
+print("apple" == "banana")
+print(5 == "5")
+print(3 <= 3)
+print(10 != 5)

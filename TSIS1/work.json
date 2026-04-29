@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Alina",
+    "email": "alina@gmail.com",
+    "birthday": "2002-07-15",
+    "group": "Friend",
+    "phones": [
+      {
+        "phone": "87015556677",
+        "type": "mobile"
+      }
+    ]
+  },
+  {
+    "name": "Nurlan",
+    "email": "nurlan@work.kz",
+    "birthday": "1999-11-02",
+    "group": "Work",
+    "phones": [
+      {
+        "phone": "87273334455",
+        "type": "work"
+      },
+      {
+        "phone": "87019998877",
+        "type": "mobile"
+      }
+    ]
+  },
+  {
+    "name": "Aigerim",
+    "email": "aigerim@mail.com",
+    "birthday": "2003-03-21",
+    "group": "Family",
+    "phones": [
+      {
+        "phone": "87771239876",
+        "type": "home"
+      }
+    ]
+  },
+  {
+    "name": "Ruslan",
+    "email": "ruslan@gmail.com",
+    "birthday": "2000-12-05",
+    "group": "Other",
+    "phones": [
+      {
+        "phone": "87016667788",
+        "type": "mobile"
+      }
+    ]
+  }
+]

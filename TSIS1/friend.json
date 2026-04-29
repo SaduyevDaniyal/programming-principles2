@@ -1,0 +1,70 @@
+[
+    {
+        "name": "Aruzhan",
+        "email": "aruzhan@gmail.com",
+        "birthday": "2002-04-12",
+        "group": "Friend",
+        "phones": [
+            {
+                "phone": "87011234567",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "name": "Damir",
+        "email": null,
+        "birthday": "2007-01-30",
+        "group": "Work",
+        "phones": [
+            {
+                "phone": "456456",
+                "type": "home"
+            },
+            {
+                "phone": "123123",
+                "type": "home"
+            }
+        ]
+    },
+    {
+        "name": "Daniyal",
+        "email": "fff@mail.com",
+        "birthday": "2007-01-15",
+        "group": "Family",
+        "phones": [
+            {
+                "phone": "87770007007",
+                "type": "mobile"
+            },
+            {
+                "phone": "123456",
+                "type": "home"
+            }
+        ]
+    },
+    {
+        "name": "Dias",
+        "email": "dias@company.kz",
+        "birthday": "2001-09-03",
+        "group": "Work",
+        "phones": [
+            {
+                "phone": "87271234567",
+                "type": "work"
+            }
+        ]
+    },
+    {
+        "name": "Madina",
+        "email": "madina@mail.com",
+        "birthday": "2003-01-20",
+        "group": "Family",
+        "phones": [
+            {
+                "phone": "87079876543",
+                "type": "mobile"
+            }
+        ]
+    }
+]

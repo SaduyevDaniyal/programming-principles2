@@ -242,7 +242,7 @@ while running:
             running = False
 
         elif event.type == pygame.KEYDOWN:
-            if event.key == pygame.K_s and (pygame.key.get_mods() & pygame.KMOD_CTRL):
+            if event.key == pygame.K_s and (pygame.key.get_mods() & pygame.KMOD_CTRL or pygame.key.get_mods() & pygame.KMOD_META):
                 save_canvas()
 
             elif event.key == pygame.K_1:
